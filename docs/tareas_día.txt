@@ -1,7 +1,21 @@
+============================================
+En pogreso...
+============================================
+
 - script de Envio de mail
-- aprender a cargar web en git
 - Agrupamiento plazas
 - entender las pruebas de hipotesis
 - listar empresas bolsas
 - idea de seguimiento
 - idea de dashboard
+- 
+============================================
+Pendientes
+============================================
+
+- REM, dividir los archivos.
+
+============================================
+Listo
+============================================
+- aprender a cargar web en git 
