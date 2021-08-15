@@ -2,30 +2,12 @@
 <html>
 
 <head>
-	<title>Read Text File</title>
+	<title>Hey!</title>
 </head>
 
 <body>
-	<a href="tareas_día.txt">Textual</a>
-	<input type="file" name="inputfile"
-			id="inputfile">
-	<br>
-
-	<pre id="output"></pre>
+	<a href="tareas_día.txt">Tareas del día</a>
 	
-	<script type="text/javascript">
-		document.getElementById('inputfile')
-			.addEventListener('change', function() {
-			
-			var fr=new FileReader();
-			fr.onload=function(){
-				document.getElementById('output')
-						.textContent=fr.result;
-			}
-			
-			fr.readAsText(this.files[0]);
-		})
-	</script>
 </body>
 
 </html>
